@@ -1,0 +1,866 @@
+{
+    "provinces": [{
+            "type": 1,
+            "id": 4,
+            "title": "TP Hồ Chí Minh"
+        },
+        {
+            "type": 1,
+            "id": 12,
+            "title": "Long An"
+        },
+        {
+            "type": 1,
+            "id": 21,
+            "title": "Vũng Tàu"
+        },
+        {
+            "type": 1,
+            "id": 22,
+            "title": "Đồng Nai"
+        },
+        {
+            "type": 1,
+            "id": 23,
+            "title": "Bình Dương"
+        }
+    ],
+    "districts": [{
+            "type": 2,
+            "id": 9,
+            "title": "Quận 1",
+            "provinceTitle": "TP Hồ Chí Minh",
+            "provinceId": 4
+        },
+        {
+            "type": 2,
+            "id": 15,
+            "title": "Quận 10",
+            "provinceTitle": "TP Hồ Chí Minh",
+            "provinceId": 4
+        },
+        {
+            "type": 2,
+            "id": 14,
+            "title": "Quận 11",
+            "provinceTitle": "TP Hồ Chí Minh",
+            "provinceId": 4
+        },
+        {
+            "type": 2,
+            "id": 76,
+            "title": "Quận 12",
+            "provinceTitle": "TP Hồ Chí Minh",
+            "provinceId": 4
+        },
+        {
+            "type": 2,
+            "id": 8,
+            "title": "Quận 2",
+            "provinceTitle": "TP Hồ Chí Minh",
+            "provinceId": 4
+        },
+        {
+            "type": 2,
+            "id": 6,
+            "title": "Quận 3",
+            "provinceTitle": "TP Hồ Chí Minh",
+            "provinceId": 4
+        },
+        {
+            "type": 2,
+            "id": 10,
+            "title": "Quận 4",
+            "provinceTitle": "TP Hồ Chí Minh",
+            "provinceId": 4
+        },
+        {
+            "type": 2,
+            "id": 18,
+            "title": "Quận 5",
+            "provinceTitle": "TP Hồ Chí Minh",
+            "provinceId": 4
+        },
+        {
+            "type": 2,
+            "id": 160,
+            "title": "Quận 6",
+            "provinceTitle": "TP Hồ Chí Minh",
+            "provinceId": 4
+        },
+        {
+            "type": 2,
+            "id": 31,
+            "title": "Quận 7",
+            "provinceTitle": "TP Hồ Chí Minh",
+            "provinceId": 4
+        },
+        {
+            "type": 2,
+            "id": 12,
+            "title": "Quận 8",
+            "provinceTitle": "TP Hồ Chí Minh",
+            "provinceId": 4
+        },
+        {
+            "type": 2,
+            "id": 132,
+            "title": "Quận 9",
+            "provinceTitle": "TP Hồ Chí Minh",
+            "provinceId": 4
+        },
+        {
+            "type": 2,
+            "id": 161,
+            "title": "Huyện Nhà Bè",
+            "provinceTitle": "TP Hồ Chí Minh",
+            "provinceId": 4
+        },
+        {
+            "type": 2,
+            "id": 7,
+            "title": "Quận Bình Tân",
+            "provinceTitle": "TP Hồ Chí Minh",
+            "provinceId": 4
+        },
+        {
+            "type": 2,
+            "id": 13,
+            "title": "Huyện Bình Chánh",
+            "provinceTitle": "TP Hồ Chí Minh",
+            "provinceId": 4
+        },
+        {
+            "type": 2,
+            "id": 17,
+            "title": "Quận Bình Thạnh",
+            "provinceTitle": "TP Hồ Chí Minh",
+            "provinceId": 4
+        },
+        {
+            "type": 2,
+            "id": 75,
+            "title": "Quận Tân Bình",
+            "provinceTitle": "TP Hồ Chí Minh",
+            "provinceId": 4
+        },
+        {
+            "type": 2,
+            "id": 406,
+            "title": "Huyện Cần Giờ",
+            "provinceTitle": "TP Hồ Chí Minh",
+            "provinceId": 4
+        },
+        {
+            "type": 2,
+            "id": 80,
+            "title": "Huyện Củ Chi",
+            "provinceTitle": "TP Hồ Chí Minh",
+            "provinceId": 4
+        },
+        {
+            "type": 2,
+            "id": 16,
+            "title": "Quận Thủ Đức",
+            "provinceTitle": "TP Hồ Chí Minh",
+            "provinceId": 4
+        },
+        {
+            "type": 2,
+            "id": 74,
+            "title": "Quận Gò Vấp",
+            "provinceTitle": "TP Hồ Chí Minh",
+            "provinceId": 4
+        },
+        {
+            "type": 2,
+            "id": 77,
+            "title": "Huyện Hóc Môn",
+            "provinceTitle": "TP Hồ Chí Minh",
+            "provinceId": 4
+        },
+        {
+            "type": 2,
+            "id": 78,
+            "title": "Quận Phú Nhuận",
+            "provinceTitle": "TP Hồ Chí Minh",
+            "provinceId": 4
+        },
+        {
+            "type": 2,
+            "id": 79,
+            "title": "Quận Tân Phú",
+            "provinceTitle": "TP Hồ Chí Minh",
+            "provinceId": 4
+        },
+        {
+            "type": 2,
+            "id": 250,
+            "title": "Thành Phố Tân An",
+            "provinceTitle": "Long An",
+            "provinceId": 12
+        },
+        {
+            "type": 2,
+            "id": 698,
+            "title": "Tỉnh Long An",
+            "provinceTitle": "Long An",
+            "provinceId": 12
+        },
+        {
+            "type": 2,
+            "id": 874,
+            "title": "Ấp Bàu Công",
+            "provinceTitle": "Long An",
+            "provinceId": 12
+        },
+        {
+            "type": 2,
+            "id": 40,
+            "title": "Huyện Bến Lức",
+            "provinceTitle": "Long An",
+            "provinceId": 12
+        },
+        {
+            "type": 2,
+            "id": 171,
+            "title": "Huyện Cần Giuộc",
+            "provinceTitle": "Long An",
+            "provinceId": 12
+        },
+        {
+            "type": 2,
+            "id": 425,
+            "title": "Huyện Cần Đước",
+            "provinceTitle": "Long An",
+            "provinceId": 12
+        },
+        {
+            "type": 2,
+            "id": 575,
+            "title": "Huyện Châu Thành",
+            "provinceTitle": "Long An",
+            "provinceId": 12
+        },
+        {
+            "type": 2,
+            "id": 41,
+            "title": "Huyện Đức Hoà",
+            "provinceTitle": "Long An",
+            "provinceId": 12
+        },
+        {
+            "type": 2,
+            "id": 498,
+            "title": "Huyện Đức Huệ",
+            "provinceTitle": "Long An",
+            "provinceId": 12
+        },
+        {
+            "type": 2,
+            "id": 377,
+            "title": "Huyện Thạnh Hoá",
+            "provinceTitle": "Long An",
+            "provinceId": 12
+        },
+        {
+            "type": 2,
+            "id": 576,
+            "title": "Huyện Mộc Hoá",
+            "provinceTitle": "Long An",
+            "provinceId": 12
+        },
+        {
+            "type": 2,
+            "id": 99,
+            "title": "Huyện Tân Hưng",
+            "provinceTitle": "Long An",
+            "provinceId": 12
+        },
+        {
+            "type": 2,
+            "id": 490,
+            "title": "Huyện Vĩnh Hưng",
+            "provinceTitle": "Long An",
+            "provinceId": 12
+        },
+        {
+            "type": 2,
+            "id": 83,
+            "title": "Huyện Tân Thạnh",
+            "provinceTitle": "Long An",
+            "provinceId": 12
+        },
+        {
+            "type": 2,
+            "id": 378,
+            "title": "Huyện Thủ Thừa",
+            "provinceTitle": "Long An",
+            "provinceId": 12
+        },
+        {
+            "type": 2,
+            "id": 689,
+            "title": "Huyện Tân Trụ",
+            "provinceTitle": "Long An",
+            "provinceId": 12
+        },
+        {
+            "type": 2,
+            "id": 84,
+            "title": "Thị Xã Kiến Tường",
+            "provinceTitle": "Long An",
+            "provinceId": 12
+        },
+        {
+            "type": 2,
+            "id": 64,
+            "title": "Thành Phố Bà Rịa",
+            "provinceTitle": "Vũng Tàu",
+            "provinceId": 21
+        },
+        {
+            "type": 2,
+            "id": 883,
+            "title": "Thành Phố Vũng Tàu",
+            "provinceTitle": "Vũng Tàu",
+            "provinceId": 21
+        },
+        {
+            "type": 2,
+            "id": 105,
+            "title": "Thành Phố Biên Hoà",
+            "provinceTitle": "Đồng Nai",
+            "provinceId": 22
+        },
+        {
+            "type": 2,
+            "id": 253,
+            "title": "Huyện Trảng Bom",
+            "provinceTitle": "Đồng Nai",
+            "provinceId": 22
+        },
+        {
+            "type": 2,
+            "id": 461,
+            "title": "Huyện Cẩm Mỹ",
+            "provinceTitle": "Đồng Nai",
+            "provinceId": 22
+        },
+        {
+            "type": 2,
+            "id": 239,
+            "title": "Huyện Vĩnh Cửu",
+            "provinceTitle": "Đồng Nai",
+            "provinceId": 22
+        },
+        {
+            "type": 2,
+            "id": 367,
+            "title": "Huyện Định Quán",
+            "provinceTitle": "Đồng Nai",
+            "provinceId": 22
+        },
+        {
+            "type": 2,
+            "id": 65,
+            "title": "Huyện Long Thành",
+            "provinceTitle": "Đồng Nai",
+            "provinceId": 22
+        },
+        {
+            "type": 2,
+            "id": 238,
+            "title": "Huyện Nhơn Trạch",
+            "provinceTitle": "Đồng Nai",
+            "provinceId": 22
+        },
+        {
+            "type": 2,
+            "id": 332,
+            "title": "Huyện Tân Phú",
+            "provinceTitle": "Đồng Nai",
+            "provinceId": 22
+        },
+        {
+            "type": 2,
+            "id": 460,
+            "title": "Huyện Xuân Lộc",
+            "provinceTitle": "Đồng Nai",
+            "provinceId": 22
+        },
+        {
+            "type": 2,
+            "id": 477,
+            "title": "Huyện Thống Nhất",
+            "provinceTitle": "Đồng Nai",
+            "provinceId": 22
+        },
+        {
+            "type": 2,
+            "id": 866,
+            "title": "Thành Phố Long Khánh",
+            "provinceTitle": "Đồng Nai",
+            "provinceId": 22
+        }
+    ],
+    "agents": [{
+            "id": 1,
+            "name": "Hoàng Quốc Bảo",
+            "avatar": "https://res.cloudinary.com/dqhoyphif/image/upload/v1626167531/R-estate/avatar-4_uops0k.jpg",
+            "email": "baohoang010198@gmail.com",
+            "phone_number": "093778410"
+        },
+        {
+            "id": 2,
+            "name": "Nguyễn Linh",
+            "avatar": "https://res.cloudinary.com/dqhoyphif/image/upload/v1626167531/R-estate/avatar-2_s3ndig.jpg",
+            "email": "linhling0123@gmail.com",
+            "phone_number": "093772410"
+        },
+        {
+            "id": 3,
+            "name": "Tạ Trung",
+            "avatar": "https://res.cloudinary.com/dqhoyphif/image/upload/v1626167531/R-estate/avatar-3_uaelah.jpg",
+            "email": "trungta198@gmail.com",
+            "phone_number": "093779410"
+        },
+        {
+            "id": 4,
+            "name": "Thành Phát",
+            "avatar": "https://res.cloudinary.com/dqhoyphif/image/upload/v1626167529/R-estate/avatar-1_nftryu.jpg",
+            "email": "thanhphat22@gmail.com",
+            "phone_number": "093773410"
+        }
+    ],
+    "categories": [{
+            "id": 1,
+            "type": "Mua Bán"
+        },
+        {
+            "id": 2,
+            "type": "Cho Thuê"
+        }
+    ],
+    "estates": [{
+            "id": 1,
+            "title": "Căn hộ 2 mặt tiền Quận 1",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English",
+            "address": "124 Đề Thám",
+            "bedroom": 5,
+            "bathroom": 5,
+            "price": "40 tỷ",
+            "image": "https://res.cloudinary.com/dqhoyphif/image/upload/v1626097315/R-estate/home-29_h8evs5.jpg",
+            "categoryId": 1,
+            "provinceId": 4,
+            "agentId": 1,
+            "districtId": 9
+        },
+        {
+            "id": 2,
+            "title": "Căn Hộ Cao Cấp",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English",
+            "address": "Quốc Lộ 1A",
+            "bedroom": 5,
+            "bathroom": 5,
+            "price": "2 tỷ",
+            "image": "https://res.cloudinary.com/dqhoyphif/image/upload/v1626097314/R-estate/home-30_pz9qmw.jpg",
+            "categoryId": 1,
+            "provinceId": 12,
+            "agentId": 2,
+            "districtId": 250
+        },
+        {
+            "id": 3,
+            "title": "Căn Hộ Melody",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English",
+            "address": "159 Cát Mơ",
+            "bedroom": 5,
+            "bathroom": 5,
+            "price": "4 tỷ",
+            "image": "https://res.cloudinary.com/dqhoyphif/image/upload/v1626097312/R-estate/home-28_siaxbf.jpg",
+            "categoryId": 1,
+            "provinceId": 21,
+            "agentId": 3,
+            "districtId": 64
+        },
+        {
+            "id": 4,
+            "title": "Căn Hộ Cao Cấp Đường Balba",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English",
+            "address": "Quốc Lộ 1A",
+            "bedroom": 5,
+            "bathroom": 5,
+            "price": "2 tỷ",
+            "image": "https://res.cloudinary.com/dqhoyphif/image/upload/v1626097311/R-estate/home-27_jq4fkw.jpg",
+            "categoryId": 1,
+            "provinceId": 22,
+            "agentId": 4,
+            "districtId": 105
+        },
+        {
+            "id": 5,
+            "title": "Căn Hộ Cao cao cấp Quận 10",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English",
+            "address": "124/22 Lãnh Binh Thăng",
+            "bedroom": 5,
+            "bathroom": 5,
+            "price": "120 triệu/ 1 tháng",
+            "image": "https://res.cloudinary.com/dqhoyphif/image/upload/v1626097311/R-estate/home-26_wuojsk.jpg",
+            "categoryId": 2,
+            "provinceId": 4,
+            "agentId": 1,
+            "districtId": 15
+        },
+        {
+            "id": 6,
+            "title": "Căn Hộ Cao Cấp Balba",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English",
+            "address": "124/22 Lãnh Binh Thăng",
+            "bedroom": 5,
+            "bathroom": 5,
+            "price": "4 tỷ",
+            "image": "https://res.cloudinary.com/dqhoyphif/image/upload/v1626097310/R-estate/home-24_fgjzmp.jpg",
+            "categoryId": 1,
+            "provinceId": 12,
+            "agentId": 2,
+            "districtId": 698
+        },
+        {
+            "id": 7,
+            "title": "Căn Hộ Cao Cấp Shine",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English",
+            "address": "124/22 Lãnh Binh Thăng",
+            "bedroom": 5,
+            "bathroom": 5,
+            "price": "3 tỷ",
+            "image": "https://res.cloudinary.com/dqhoyphif/image/upload/v1626097310/R-estate/home-25_qxwuds.jpg",
+            "categoryId": 1,
+            "provinceId": 21,
+            "agentId": 3,
+            "districtId": 883
+        },
+        {
+            "id": 8,
+            "title": "Căn Hộ Cao Cấp KangNam",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English",
+            "address": "124/22 Lãnh Binh Thăng",
+            "bedroom": 5,
+            "bathroom": 5,
+            "price": "30 triệu/ 1 tháng",
+            "image": "https://res.cloudinary.com/dqhoyphif/image/upload/v1626097309/R-estate/home-23_a39qm1.jpg",
+            "categoryId": 2,
+            "provinceId": 22,
+            "agentId": 4,
+            "districtId": 253
+        },
+        {
+            "id": 9,
+            "title": "Căn Hộ Cao Cấp Tara",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English",
+            "address": "124/22 Lãnh Binh Thăng",
+            "bedroom": 5,
+            "bathroom": 5,
+            "price": "50 triệu/ 1 tháng",
+            "image": "https://res.cloudinary.com/dqhoyphif/image/upload/v1626097308/R-estate/home-22_eix9ng.jpg",
+            "categoryId": 2,
+            "provinceId": 4,
+            "agentId": 1,
+            "districtId": 14
+        },
+        {
+            "id": 10,
+            "title": "Căn Hộ Cao Cấp Murid",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English",
+            "address": "124/22 Lãnh Binh Thăng",
+            "bedroom": 5,
+            "bathroom": 5,
+            "price": "3 tỷ",
+            "image": "https://res.cloudinary.com/dqhoyphif/image/upload/v1626097308/R-estate/home-20_eg2lvg.jpg",
+            "categoryId": 1,
+            "provinceId": 12,
+            "agentId": 2,
+            "districtId": 40
+        },
+        {
+            "id": 11,
+            "title": "Căn Hộ Cao Cấp Thống Nhất",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English",
+            "address": "124/22 Lãnh Binh Thăng",
+            "bedroom": 5,
+            "bathroom": 5,
+            "price": "20 triệu/ 1 tháng",
+            "image": "https://res.cloudinary.com/dqhoyphif/image/upload/v1626097308/R-estate/home-21_cpinkl.jpg",
+            "categoryId": 1,
+            "provinceId": 21,
+            "agentId": 3,
+            "districtId": 64
+        },
+        {
+            "id": 12,
+            "title": "Căn Hộ Cao Cấp Sharra",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English",
+            "address": "124/22 Lãnh Binh Thăng",
+            "bedroom": 5,
+            "bathroom": 5,
+            "price": "3 tỷ",
+            "image": "https://res.cloudinary.com/dqhoyphif/image/upload/v1626097307/R-estate/home-19_maeaip.jpg",
+            "categoryId": 1,
+            "provinceId": 21,
+            "agentId": 4,
+            "districtId": 64
+        },
+        {
+            "id": 13,
+            "title": "Căn Hộ Cao Cấp Hola",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English",
+            "address": "124/22 Lãnh Binh Thăng",
+            "bedroom": 5,
+            "bathroom": 5,
+            "price": "30 triệu/ 1 tháng",
+            "image": "https://res.cloudinary.com/dqhoyphif/image/upload/v1626097306/R-estate/home-18_vnmbno.jpg",
+            "categoryId": 2,
+            "provinceId": 21,
+            "agentId": 1,
+            "districtId": 883
+        },
+        {
+            "id": 14,
+            "title": "Căn Hộ Cao Cấp Summer",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English",
+            "address": "124/22 Lãnh Binh Thăng",
+            "bedroom": 5,
+            "bathroom": 5,
+            "price": "4 tỷ",
+            "image": "https://res.cloudinary.com/dqhoyphif/image/upload/v1626097306/R-estate/home-16_egisdg.jpg",
+            "categoryId": 1,
+            "provinceId": 22,
+            "agentId": 2,
+            "districtId": 461
+        },
+        {
+            "id": 15,
+            "title": "Căn Hộ Cao Cấp Kim Cương",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English",
+            "address": "124/22 Lãnh Binh Thăng",
+            "bedroom": 5,
+            "bathroom": 5,
+            "price": "3 tỷ",
+            "image": "https://res.cloudinary.com/dqhoyphif/image/upload/v1626097306/R-estate/home-17_cuhts4.jpg",
+            "categoryId": 1,
+            "provinceId": 22,
+            "agentId": 3,
+            "districtId": 367
+        },
+        {
+            "id": 16,
+            "title": "Căn Hộ Cao Cấp Boppa",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English",
+            "address": "124/22 Lãnh Binh Thăng",
+            "bedroom": 5,
+            "bathroom": 5,
+            "price": "30 triệu/ 1 tháng",
+            "image": "https://res.cloudinary.com/dqhoyphif/image/upload/v1626097304/R-estate/home-12_otmdlc.jpg",
+            "categoryId": 2,
+            "provinceId": 22,
+            "agentId": 4,
+            "districtId": 65
+        },
+        {
+            "id": 17,
+            "title": "Căn Hộ Cao Cấp Lady",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English",
+            "address": "124/22 Lãnh Binh Thăng",
+            "bedroom": 5,
+            "bathroom": 5,
+            "price": "5 tỷ",
+            "image": "https://res.cloudinary.com/dqhoyphif/image/upload/v1626097304/R-estate/home-14_i2nqwh.jpg",
+            "categoryId": 1,
+            "provinceId": 4,
+            "agentId": 1,
+            "districtId": 6
+        },
+        {
+            "id": 18,
+            "title": "Căn Hộ Cao Cấp Shara",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English",
+            "address": "124/22 Lãnh Binh Thăng",
+            "bedroom": 5,
+            "bathroom": 5,
+            "price": "30 triệu/ 1 tháng",
+            "image": "https://res.cloudinary.com/dqhoyphif/image/upload/v1626097303/R-estate/home-15_gsxlpe.jpg",
+            "categoryId": 2,
+            "provinceId": 4,
+            "agentId": 2,
+            "districtId": 6
+        },
+        {
+            "id": 19,
+            "title": "Căn Hộ Cao Cấp Lamda",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English",
+            "address": "124/22 Lãnh Binh Thăng",
+            "bedroom": 5,
+            "bathroom": 5,
+            "price": "10 tỷ",
+            "image": "https://res.cloudinary.com/dqhoyphif/image/upload/v1626097302/R-estate/home-11_sm5v9p.jpg",
+            "categoryId": 1,
+            "provinceId": 4,
+            "agentId": 3,
+            "districtId": 160
+        },
+        {
+            "id": 20,
+            "title": "Căn Hộ Cao Cấp Canggo",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English",
+            "address": "124/22 Lãnh Binh Thăng",
+            "bedroom": 5,
+            "bathroom": 5,
+            "price": "30 triệu/ 1 tháng",
+            "image": "https://res.cloudinary.com/dqhoyphif/image/upload/v1626097301/R-estate/home-10_lcbsyb.jpg",
+            "categoryId": 2,
+            "provinceId": 4,
+            "agentId": 4,
+            "districtId": 31
+        },
+        {
+            "id": 21,
+            "title": "Căn Hộ Cao Cấp NovaLand",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English",
+            "address": "124/22 Lãnh Binh Thăng",
+            "bedroom": 5,
+            "bathroom": 5,
+            "price": "3 tỷ",
+            "image": "https://res.cloudinary.com/dqhoyphif/image/upload/v1626097301/R-estate/home-8_h2kplo.jpg",
+            "categoryId": 1,
+            "provinceId": 4,
+            "agentId": 1,
+            "districtId": 31
+        },
+        {
+            "id": 22,
+            "title": "Căn Hộ Cao Cấp PPLand",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English",
+            "address": "124/22 Lãnh Binh Thăng",
+            "bedroom": 5,
+            "bathroom": 5,
+            "price": "8 tỷ",
+            "image": "https://res.cloudinary.com/dqhoyphif/image/upload/v1626097301/R-estate/home-7_wdf6cy.jpg",
+            "categoryId": 1,
+            "provinceId": 4,
+            "agentId": 2,
+            "districtId": 161
+        },
+        {
+            "id": 23,
+            "title": "Căn Hộ Cao Cấp FE",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English",
+            "address": "124/22 Lãnh Binh Thăng",
+            "bedroom": 5,
+            "bathroom": 5,
+            "price": "30 triệu/ 1 tháng",
+            "image": "https://res.cloudinary.com/dqhoyphif/image/upload/v1626096698/R-estate/home-3_imyezg.jpg",
+            "categoryId": 2,
+            "provinceId": 4,
+            "agentId": 3,
+            "districtId": 17
+        },
+        {
+            "id": 24,
+            "title": "Căn Hộ Cao Cấp SanPhi",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English",
+            "address": "124/22 Lãnh Binh Thăng",
+            "bedroom": 5,
+            "bathroom": 5,
+            "price": "3 tỷ",
+            "image": "https://res.cloudinary.com/dqhoyphif/image/upload/v1626096695/R-estate/property-1_djvxyb.jpg",
+            "categoryId": 1,
+            "provinceId": 4,
+            "agentId": 4,
+            "districtId": 75
+        },
+        {
+            "id": 25,
+            "title": "Căn Hộ Cao Cấp Phong Phú",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English",
+            "address": "124/22 Lãnh Binh Thăng",
+            "bedroom": 5,
+            "bathroom": 5,
+            "price": "40 triệu/ 1 tháng",
+            "image": "https://res.cloudinary.com/dqhoyphif/image/upload/v1626096695/R-estate/property-2_o4eqyr.jpg",
+            "categoryId": 2,
+            "provinceId": 4,
+            "agentId": 1,
+            "districtId": 74
+        },
+        {
+            "id": 26,
+            "title": "Căn Hộ Cao Cấp ShiSha",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English",
+            "address": "124/22 Lãnh Binh Thăng",
+            "bedroom": 5,
+            "bathroom": 5,
+            "price": "3 tỷ",
+            "image": "https://res.cloudinary.com/dqhoyphif/image/upload/v1626096694/R-estate/home-6_y6ulhq.jpg",
+            "categoryId": 1,
+            "provinceId": 4,
+            "agentId": 2,
+            "districtId": 74
+        },
+        {
+            "id": 27,
+            "title": "Căn Hộ Cao Cấp BigCity",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English",
+            "address": "124/22 Lãnh Binh Thăng",
+            "bedroom": 5,
+            "bathroom": 5,
+            "price": "50 triệu/ 1 tháng",
+            "image": "https://res.cloudinary.com/dqhoyphif/image/upload/v1626096693/R-estate/home-5_tqv6mb.jpg",
+            "categoryId": 2,
+            "provinceId": 4,
+            "agentId": 3,
+            "districtId": 78
+        },
+        {
+            "id": 28,
+            "title": "Căn Hộ Cao Cấp Thanh Bình",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English",
+            "address": "124/22 Lãnh Binh Thăng",
+            "bedroom": 5,
+            "bathroom": 5,
+            "price": "6 tỷ",
+            "image": "https://res.cloudinary.com/dqhoyphif/image/upload/v1626096693/R-estate/home-1_h3bhwe.jpg",
+            "categoryId": 1,
+            "provinceId": 4,
+            "agentId": 4,
+            "districtId": 79
+        },
+        {
+            "id": 29,
+            "title": "Căn Hộ Cao Cấp Balba",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English",
+            "address": "124/22 Lãnh Binh Thăng",
+            "bedroom": 5,
+            "bathroom": 5,
+            "price": "4 tỷ",
+            "image": "https://res.cloudinary.com/dqhoyphif/image/upload/v1626096690/R-estate/home-2_y6xcvj.jpg",
+            "categoryId": 1,
+            "provinceId": 4,
+            "agentId": 1,
+            "districtId": 17
+        },
+        {
+            "id": 30,
+            "title": "Căn Hộ Cao Cấp HaoSang",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English",
+            "address": "124/22 Lãnh Binh Thăng",
+            "bedroom": 5,
+            "bathroom": 5,
+            "price": "10 tỷ",
+            "image": "https://res.cloudinary.com/dqhoyphif/image/upload/v1626096688/R-estate/apartment_sppnne.jpg",
+            "categoryId": 1,
+            "provinceId": 4,
+            "agentId": 2,
+            "districtId": 18
+        }
+    ]
+}
